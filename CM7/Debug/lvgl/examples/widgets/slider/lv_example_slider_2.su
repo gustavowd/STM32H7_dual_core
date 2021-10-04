@@ -1,0 +1,8 @@
+lv_color.h:602:26:lv_color_make	16	static
+lv_color.h:612:26:lv_color_hex3	16	static
+lv_style.h:425:20:lv_style_set_pad_all	16	static
+lv_style.h:437:20:lv_style_set_pad_ver	16	static
+lv_obj_pos.h:186:20:lv_obj_center	16	static
+lv_obj_style.h:92:20:lv_obj_remove_style_all	16	static
+lv_disp.h:163:26:lv_scr_act	8	static
+lv_example_slider_2.c:9:6:lv_example_slider_2	24	static

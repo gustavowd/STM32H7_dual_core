@@ -1,0 +1,2 @@
+s5k5cag_reg.c:48:9:s5k5cag_read_reg	48	static,ignoring_inline_asm
+s5k5cag_reg.c:68:9:s5k5cag_write_reg	48	static,ignoring_inline_asm

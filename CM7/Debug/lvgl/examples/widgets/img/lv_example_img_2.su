@@ -1,0 +1,8 @@
+lv_color.h:602:26:lv_color_make	16	static
+lv_disp.h:163:26:lv_scr_act	8	static
+lv_slider.h:75:20:lv_slider_set_value	24	static
+lv_slider.h:97:20:lv_slider_set_range	24	static
+lv_slider.h:121:23:lv_slider_get_value	16	static
+lv_example_img_2.c:14:6:lv_example_img_2	16	static
+lv_example_img_2.c:41:13:slider_event_cb	32	static
+lv_example_img_2.c:52:19:create_slider	24	static

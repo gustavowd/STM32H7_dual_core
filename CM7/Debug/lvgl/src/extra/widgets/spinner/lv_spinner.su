@@ -1,0 +1,9 @@
+lv_anim.h:119:20:lv_anim_set_var	16	static
+lv_anim.h:131:20:lv_anim_set_exec_cb	16	static
+lv_anim.h:141:20:lv_anim_set_time	16	static
+lv_anim.h:162:20:lv_anim_set_values	24	static
+lv_anim.h:189:20:lv_anim_set_path_cb	16	static
+lv_anim.h:249:20:lv_anim_set_repeat_count	16	static
+lv_spinner.c:43:12:lv_spinner_create	96	static
+lv_spinner.c:77:13:arc_anim_start_angle	16	static
+lv_spinner.c:83:13:arc_anim_end_angle	16	static

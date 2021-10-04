@@ -1,0 +1,5 @@
+lv_obj_pos.h:186:20:lv_obj_center	16	static
+lv_disp.h:163:26:lv_scr_act	8	static
+lv_example_spinbox_1.c:7:13:lv_spinbox_increment_event_cb	24	static
+lv_example_spinbox_1.c:15:13:lv_spinbox_decrement_event_cb	24	static
+lv_example_spinbox_1.c:24:6:lv_example_spinbox_1	24	static

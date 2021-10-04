@@ -1,0 +1,5 @@
+lv_color.h:602:26:lv_color_make	16	static
+lv_color.h:674:26:lv_color_white	8	static
+lv_obj_pos.h:186:20:lv_obj_center	16	static
+lv_disp.h:163:26:lv_scr_act	8	static
+lv_example_style_11.c:7:6:lv_example_style_11	24	static

@@ -1,0 +1,8 @@
+cm_ipc.c:115:6:HAL_HSEM_FreeCallback	16	static
+cm_ipc.c:148:5:ipc_init	16	static
+cm_ipc.c:198:13:prvCoreInterruptHandler	16	static,ignoring_inline_asm
+cm_ipc.c:228:10:is_ipc_started	4	static
+cm_ipc.c:238:6:vGenerateRemoteInterrupt	24	static
+cm_ipc.c:260:6:ipc_isr	8	static
+cm_ipc.c:265:8:ipc_sendmsg	24	static
+cm_ipc.c:275:8:ipc_recvmsg	32	static

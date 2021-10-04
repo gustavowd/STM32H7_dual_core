@@ -1,0 +1,13 @@
+s5k5cag.c:89:9:S5K5CAG_RegisterBusIO	24	static
+s5k5cag.c:130:9:S5K5CAG_Init	40	static
+s5k5cag.c:2916:9:S5K5CAG_DeInit	16	static
+s5k5cag.c:2932:9:S5K5CAG_SetPixelFormat	32	static
+s5k5cag.c:3106:9:S5K5CAG_SetResolution	32	static
+s5k5cag.c:3345:9:S5K5CAG_ReadID	24	static
+s5k5cag.c:3378:9:S5K5CAG_GetCapabilities	24	static
+s5k5cag.c:3411:9:S5K5CAG_SetColorEffect	32	static
+s5k5cag.c:3611:9:S5K5CAG_SetBrightness	56	static
+s5k5cag.c:3640:9:S5K5CAG_SetContrast	56	static
+s5k5cag.c:3670:16:S5K5CAG_Delay	24	static
+s5k5cag.c:3688:16:S5K5CAG_ReadRegWrap	40	static
+s5k5cag.c:3703:16:S5K5CAG_WriteRegWrap	40	static

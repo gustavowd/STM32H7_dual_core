@@ -1,0 +1,7 @@
+lv_color.h:602:26:lv_color_make	16	static
+lv_color.h:674:26:lv_color_white	8	static
+lv_area.h:143:26:lv_area_get_height	16	static
+lv_disp.h:163:26:lv_scr_act	8	static
+lv_example_table_2.c:6:13:draw_event_cb	96	static
+lv_example_table_2.c:40:13:change_event_cb	32	static
+lv_example_table_2.c:55:6:lv_example_table_2	96	static

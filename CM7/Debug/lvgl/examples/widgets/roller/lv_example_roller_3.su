@@ -1,0 +1,11 @@
+lv_color.h:602:26:lv_color_make	16	static
+lv_color.h:674:26:lv_color_white	8	static
+lv_color.h:675:26:lv_color_black	8	static
+lv_font.h:118:26:lv_font_get_line_height	16	static
+lv_style.h:425:20:lv_style_set_pad_all	16	static
+lv_obj_pos.h:186:20:lv_obj_center	16	static
+lv_obj_style_gen.h:331:33:lv_obj_get_style_text_font	24	static
+lv_obj_style_gen.h:343:26:lv_obj_get_style_text_line_space	24	static
+lv_disp.h:163:26:lv_scr_act	8	static
+lv_example_roller_3.c:4:13:mask_event_cb	80	static
+lv_example_roller_3.c:54:6:lv_example_roller_3	16	static

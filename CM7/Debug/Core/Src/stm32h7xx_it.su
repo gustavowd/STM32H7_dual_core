@@ -1,0 +1,8 @@
+stm32h7xx_it.c:75:6:NMI_Handler	4	static
+stm32h7xx_it.c:90:6:HardFault_Handler	4	static
+stm32h7xx_it.c:105:6:MemManage_Handler	4	static
+stm32h7xx_it.c:120:6:BusFault_Handler	4	static
+stm32h7xx_it.c:135:6:UsageFault_Handler	4	static
+stm32h7xx_it.c:150:6:DebugMon_Handler	4	static
+stm32h7xx_it.c:170:6:TIM2_IRQHandler	8	static
+stm32h7xx_it.c:182:6:HSEM1_IRQHandler	8	static

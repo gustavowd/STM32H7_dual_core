@@ -1,0 +1,10 @@
+lv_anim.h:119:20:lv_anim_set_var	16	static
+lv_anim.h:131:20:lv_anim_set_exec_cb	16	static
+lv_anim.h:141:20:lv_anim_set_time	16	static
+lv_anim.h:162:20:lv_anim_set_values	24	static
+lv_anim.h:249:20:lv_anim_set_repeat_count	16	static
+lv_anim.h:259:20:lv_anim_set_repeat_delay	16	static
+lv_obj_pos.h:186:20:lv_obj_center	16	static
+lv_disp.h:163:26:lv_scr_act	8	static
+lv_example_arc_2.c:5:13:set_angle	16	static
+lv_example_arc_2.c:13:6:lv_example_arc_2	80	static

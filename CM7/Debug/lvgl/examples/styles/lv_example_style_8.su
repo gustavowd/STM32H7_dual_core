@@ -1,0 +1,4 @@
+lv_style.h:425:20:lv_style_set_pad_all	16	static
+lv_obj_pos.h:186:20:lv_obj_center	16	static
+lv_disp.h:163:26:lv_scr_act	8	static
+lv_example_style_8.c:7:6:lv_example_style_8	16	static

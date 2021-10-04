@@ -1,0 +1,2 @@
+mfxstm32l152_reg.c:46:9:mfxstm32l152_read_reg	32	static
+mfxstm32l152_reg.c:58:9:mfxstm32l152_write_reg	32	static

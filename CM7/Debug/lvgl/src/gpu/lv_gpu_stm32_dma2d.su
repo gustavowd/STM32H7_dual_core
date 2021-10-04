@@ -1,0 +1,8 @@
+lv_gpu_stm32_dma2d.c:63:6:lv_gpu_stm32_dma2d_init	16	static,ignoring_inline_asm
+lv_gpu_stm32_dma2d.c:93:6:lv_gpu_stm32_dma2d_fill	24	static
+lv_gpu_stm32_dma2d.c:121:6:lv_gpu_stm32_dma2d_fill_mask	24	static
+lv_gpu_stm32_dma2d.c:166:6:lv_gpu_stm32_dma2d_copy	24	static
+lv_gpu_stm32_dma2d.c:196:6:lv_gpu_stm32_dma2d_blend	24	static
+lv_gpu_stm32_dma2d.c:223:6:lv_gpu_stm32_dma2d_wait_cb	16	static
+lv_gpu_stm32_dma2d.c:239:13:invalidate_cache	24	static,ignoring_inline_asm
+lv_gpu_stm32_dma2d.c:251:13:wait_finish	16	static
